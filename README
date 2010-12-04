@@ -1,0 +1,3 @@
+# Sinatrinha
+
+Sinatrinha is a simple Sinatra app skeleton to demonstrate how to add Rspec support in your project. This example uses Bundler to vendorize gems and have dumb tests to make (a little) sense.
